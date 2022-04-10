@@ -3,7 +3,9 @@
 2: npm install firebase
 3:create firebase.init.js and import getAuth to export auth
 4: go to Authentication > enabel Email and Password auth
-5:
+5:create Login, Sign Up componenet, set up Route
+6:attacth form field handle and form submit handler
+7:npm install --save react-firebase-hooks
 */
 
 /* 
