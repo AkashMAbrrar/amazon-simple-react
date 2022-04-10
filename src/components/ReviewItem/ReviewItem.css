@@ -1,0 +1,42 @@
+.reveiw-item {
+    border: 1px solid rgb(73, 95, 95);
+    border-radius: 8px;
+    padding: 8px;
+    margin-top: 21px;
+    width: 570px;
+    display: flex;
+}
+
+.reveiw-item img {
+    width: 90px;
+    border-radius: 10px;
+}
+
+.review-item-details p {
+    margin: 0;
+}
+
+.review-item-details-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.dlt-icon {
+    color: rgba(235, 87, 87, 1);
+    font-size: 27px;
+}
+
+.reveiw-item .delete-container {
+    display: flex;
+    align-items: center;
+}
+
+.reveiw-item .dlt-btn {
+    background-color: rgba(235, 87, 87, 0.3);
+    border: none;
+    height: 55px;
+    width: 55px;
+    border-radius: 50px;
+    cursor: pointer;
+}
