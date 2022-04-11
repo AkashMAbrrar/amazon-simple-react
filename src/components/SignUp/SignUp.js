@@ -12,6 +12,7 @@ const SignUp = () => {
     const [error, setError] = useState('');
     const navigate = useNavigate()
 
+    // const [createUserWithEmailAndPassword, user] = useCreateUserWithEmailAndPassword(auth);
     const [createUserWithEmailAndPassword, user] = useCreateUserWithEmailAndPassword(auth);
 
     const handleEmailblur = event => {

@@ -18,5 +18,6 @@
 a=>  npm install -g firebase-tools
 b=> firbase login
 c=> firbase init
+f=> npm run build
 d=> firebase deploy
 */ 
